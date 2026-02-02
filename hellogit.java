@@ -1,5 +1,5 @@
 public class hellogit {
     public static void main(String[] args) {
-        System.out.println("Hola Mundo modo antiguo");
+        System.out.println("New Hello Git");
     }
 }
